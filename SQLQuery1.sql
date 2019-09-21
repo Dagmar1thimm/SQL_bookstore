@@ -2,6 +2,7 @@
 CREATE DATABASE db_bookstore;
 
 USE db_bookstore;
+--Test
 
 
 CREATE TABLE tbl_LIBRARY_BRANCH (
